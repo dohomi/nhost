@@ -1,5 +1,11 @@
 # @nhost/hasura-auth-js
 
+## 0.1.15
+
+### Patch Changes
+
+- 50b9d76: feat: correct available providers (Discord & Twitch added)
+
 ## 0.1.14
 
 ### Patch Changes
